@@ -7,3 +7,13 @@
     text-align: end;
     font-size: x-large;
 }
+
+.btn-outline-primary{
+    color:white;
+    background-color: cornflowerblue;
+}
+
+.btn-outline-danger{    
+    color:white;
+    background-color: rgb(237, 100, 100);
+}

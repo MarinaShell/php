@@ -2,3 +2,25 @@
     height: 100vh;
     font-family: 'Open Sans', monospace;
 }
+.card-header{
+    color: darkblue;
+    background-color: aquamarine;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+.btn-link{
+    color: darkblue;
+    background-color: aquamarine;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+.btn-link:hover{
+    color: blueviolet;
+}
+
+.card-body{
+    background-color: rgb(225, 252, 243);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
